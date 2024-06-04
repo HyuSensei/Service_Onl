@@ -1,0 +1,10 @@
+export const FACEBOOK = "FACEBOOK";
+export const TIKTOK = "TIKTOK";
+export const BUFF_LIKE = "BUFF LIKE";
+export const BUFF_EYE = "BUFF MẮT";
+export const BUFF_SHARE = "BUFF SHARE";
+export const BUFF_VIEW = "BUFF VIEW";
+export const BUFF_SUB = "BUFF SUB";
+export const BUFF_FOLLOW = "BUFF FOLLOW";
+export const WAIT_STATUS = "ĐANG CHỜ";
+export const TIME = "KHÔNG CÓ";
